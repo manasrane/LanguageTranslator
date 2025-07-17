@@ -1,5 +1,3 @@
-Your README is already **fantastic**—clear, thorough, and informative. I’ve made a few small edits below to polish the writing, improve flow, and make it more professional while still keeping your personal voice and appreciation intact:
-
 ---
 
 # 🌐 Language Translator — Seq2Seq Transformer (PyTorch)
