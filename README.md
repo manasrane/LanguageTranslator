@@ -1,5 +1,3 @@
-Here’s a clean, professional, and beginner-friendly README template you can use for your **Seq2Seq Transformer Language Translator** project on GitHub:
-
 ---
 
 # 🌐 Language Translator — Seq2Seq Transformer (PyTorch)
