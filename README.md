@@ -1,11 +1,8 @@
----
-
 # 🌐 Language Translator — Seq2Seq Transformer (PyTorch)
 
 A language translation model built from scratch using a custom implementation of the Transformer architecture in PyTorch. This project demonstrates how sequence-to-sequence learning works for neural machine translation (NMT), without using high-level frameworks like Hugging Face.
 reference : https://github.com/hkproj/pytorch-transformer
 # great guy he has helped me understand transformer very much , just an appreciation if u want support him checkout his youtube channel: https://www.youtube.com/watch?v=ISNdQcPhsts
----
 
 ## 🚀 Features
 
