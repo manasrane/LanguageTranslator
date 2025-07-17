@@ -116,10 +116,3 @@ PRED: Bonjour, comment vas-tu ?
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
-Let me know if you'd like a badge section (like `Build Status`, `License`, etc.) or want to add visual examples (plots, attention weights, etc.)!
